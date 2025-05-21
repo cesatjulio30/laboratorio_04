@@ -8,49 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
-    <style>
-        *{
-            font-family: "Roboto", sans-serif;;
-        }
-        main{
-            width: 325px;
-            border-radius: 16px;
-            padding: 16px;
-            background-color: #1f1f1f;
-        }
-        
-        img{
-            width: 100%;
-            border-radius: 8px;
-        }
-
-        #title {
-            color: #fff;
-            text-align: center;
-        }
-
-        #subtitle{
-            color: #829b36;
-            text-align: center;
-            font-size: 14px;
-
-        }
-
-        p {
-            color: #fff;
-            text-align: center;
-        }
-
-        section>button {
-            width: 100%;
-            background-color: #333333;
-            color: #fff;
-            margin-bottom: 8px;
-            border: none;
-            height: 30px;
-            border-radius: 8px;
-        }
-    </style>
+   
 </head>
 <body>
     <main>
